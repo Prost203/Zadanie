@@ -3,7 +3,7 @@ from tkinter import *
  
 root = Tk()
 
-tovar= ['cucumber','carrot',"burgar","chips"]
+tovar= ['melon','pepega',"tomato","pumpkin"]
 lbox = Listbox(width=15,height=8)
 for tov in tovar:
     lbox.insert(END,tov)
